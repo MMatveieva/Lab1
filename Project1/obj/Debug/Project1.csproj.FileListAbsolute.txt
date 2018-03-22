@@ -1,0 +1,6 @@
+D:\Users\Mariya\Rider Projects\Project1\Project1\bin\Debug\Project1.exe
+D:\Users\Mariya\Rider Projects\Project1\Project1\bin\Debug\Project1.pdb
+D:\Users\Mariya\Rider Projects\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+D:\Users\Mariya\Rider Projects\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+D:\Users\Mariya\Rider Projects\Project1\Project1\obj\Debug\Project1.exe
+D:\Users\Mariya\Rider Projects\Project1\Project1\obj\Debug\Project1.pdb
